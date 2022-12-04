@@ -1,0 +1,7 @@
+cat : displays what is inside file 
+
+git restore --staged text.txt  (if you accidently add some file to staging and you want to remove it)
+
+git log (show the history of commits)
+
+
